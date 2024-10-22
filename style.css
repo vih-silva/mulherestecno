@@ -1,0 +1,64 @@
+body { 
+    background-color: ;
+}
+
+.cabecalho{
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+}
+
+#titulo {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    
+}
+
+.imgcentro {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+nav{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: ;
+}
+
+li{
+    text-align: ;
+    display: inline-block;
+    /* padding: 0px 50px 0px 10px; */
+    font-size: ;
+    font-family: Verdana ;
+
+}
+
+/*onde vai os codigos abaixo: li ou li a?????? */
+    text-decoration: none;
+    color: ;
+
+
+li a{
+    font-size: 50px;
+
+}
+
+button{
+    font-size: 16px;
+    color: blue;
+    padding: 2px;
+    width: 150px;
+    border-radius: 8px;
+}
