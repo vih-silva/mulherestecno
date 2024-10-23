@@ -1,2 +1,1 @@
-# mulherestecno
-Mulheres na tecnologia
+
